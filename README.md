@@ -7,3 +7,7 @@ Link pdf esercitazione: https://virtuale.unibo.it/pluginfile.php/1203721/mod_fol
 #### Esercizi
 
 1. Confrontare i metodi `newtonSys.m`, `cordeSys.m` e `shamanskiiSys.m` nella soluzione di sistemi di equazioni non lineari dati (utilizzare _tolx = tolf = 1e^-10_ ed _NMAX = 500_)
+
+#### Riferimenti ad altri laboratori
+
+Questa esercitazione è stata svolta anche nel `Lab08` e nel `Tutorato2`.
